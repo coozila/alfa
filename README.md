@@ -9,14 +9,14 @@ AutoML is a desktop application developed with Python, HTML, CSS and JS which le
 
 Download the repository to run locally 
 ```
-$ git clone https://github.com/santhalakshminarayana/AutoML.git
+$ git clone https://github.com/coozila/alfa.git
 ```
 
 Setup Virtual environment and install requirements
 ```
-$ virtualenv AutoML
-$ source AutoML/bin/activate
-$ cd AutoML
+$ virtualenv alfa
+$ source alfa/bin/activate
+$ cd alfa
 $ pip install -r requirements.txt
 ```
 
