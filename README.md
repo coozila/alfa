@@ -17,7 +17,7 @@ Setup Virtual environment and install requirements
 virtualenv alfa-gpt
 source alfa-gpt/bin/activate
 cd alfa-gpt
-pip install -r requirements.txt
+pip install --no-cache-dir -r requirements.txt
 ```
 
 Run app
