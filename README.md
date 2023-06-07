@@ -9,20 +9,20 @@ AutoML is a desktop application developed with Python, HTML, CSS and JS which le
 
 Download the repository to run locally 
 ```
-$ git clone https://github.com/coozila/alfa-gpt.git
+git clone https://github.com/coozila/alfa-gpt.git
 ```
 
 Setup Virtual environment and install requirements
 ```
-$ virtualenv alfa-gpt
-$ source alfa-gpt/bin/activate
-$ cd alfa-gpt
-$ pip install -r requirements.txt
+virtualenv alfa-gpt
+source alfa-gpt/bin/activate
+cd alfa-gpt
+pip install -r requirements.txt
 ```
 
 Run app
 ```
-$ python app.py
+python app.py
 ```
 
 Read more about this on [Medium](https://medium.com/@santhalakshminarayana/automl-a-gui-application-to-make-ml-for-everyone-31d18ca84d89)
